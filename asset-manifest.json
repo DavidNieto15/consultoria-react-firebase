@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/consultoria-react-firebase/static/css/main.2d74900a.css",
+    "main.js": "/consultoria-react-firebase/static/js/main.6fd57262.js",
+    "static/media/logo.png": "/consultoria-react-firebase/static/media/logo.1ee8c8cc4140ee8626b8.png",
+    "index.html": "/consultoria-react-firebase/index.html",
+    "main.2d74900a.css.map": "/consultoria-react-firebase/static/css/main.2d74900a.css.map",
+    "main.6fd57262.js.map": "/consultoria-react-firebase/static/js/main.6fd57262.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d74900a.css",
+    "static/js/main.6fd57262.js"
+  ]
+}
