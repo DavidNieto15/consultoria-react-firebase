@@ -9,8 +9,8 @@ const Navbar = () => {
     <>
       <nav className="navbar navbar-expand-lg bg-primary">
         <div className="container-fluid">
-          <a className="navbar-brand" href="/"><alt width={120} height={80} className="d-inline-block align-text-top logo_image" />
-          </a>
+          <NavLink className="navbar-brand" to="/"><alt width={120} height={80} className="d-inline-block align-text-top logo_image" />
+          </NavLink>
           <h3 className="colortext">Fernández &amp; Asociados.</h3>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon" />
