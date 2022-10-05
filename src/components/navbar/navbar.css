@@ -1,0 +1,31 @@
+.header {
+    max-width: 100%;
+    min-width: 10%;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    grid-gap: 10px;
+    padding: 20px;
+    text-align: left;
+    background: #0c0263;
+    color: white;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.logo_image {
+    background-image: url(img/logo.png);
+    background-size: 140%;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-color: #4577e2;
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+}
+
+.colortext{
+    color: white;
+  }
+
+  
+ 
